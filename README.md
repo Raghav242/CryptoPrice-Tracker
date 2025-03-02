@@ -44,5 +44,5 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Raghav242/CryptoPrice-Tracker.git
+cd web-app
